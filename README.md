@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Joemane1
 - 👀 I’m interested in machine learning, statistics, data science and project management
-- 🌱 I’m currently learning Power BI and SQL
 - 💞️ I’m looking to collaborate on new opportunities for career advancement, skills development, professional growth and exposure to diverse projects.
 
 - 📫 How to reach me joemaphalle@gmail.com
